@@ -253,6 +253,8 @@ apt/npm install npm
 node -v  # Check Node.js version
 npm -v   # Check npm version
 npm install
+s -l /projects/ecommerce-k8s/"yourfile name"/package-lock.json
+
 
 ```bash
 # Build products service
