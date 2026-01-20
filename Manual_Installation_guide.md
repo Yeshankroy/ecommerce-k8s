@@ -248,6 +248,12 @@ Split into individual files:
 
 ### 6. Build Docker Images
 
+```Before this Make sure you have  installed npm Package And and installed npm install
+apt/npm install npm
+node -v  # Check Node.js version
+npm -v   # Check npm version
+npm install
+
 ```bash
 # Build products service
 cd products-service
