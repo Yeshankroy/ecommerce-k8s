@@ -2,9 +2,10 @@
 
 Production-ready 3-tier microservices application.
 
-## Quick Start
-```bash
+## Quick Start | To Run Application 
+```Run bash  Script
 ./scripts/deploy.sh
+./run.sh
 ```
 
 ## Architecture
